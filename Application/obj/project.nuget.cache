@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UUHwVJj2LOnmOhZoZBA+k/rTsW5YVHrvGe6TpNwTiM0V5KzGcAfsfElqluVH/C13sldeZ5rix2FHekVs6F7hdA==",
+  "dgSpecHash": "Mq62qTLZ/PQn8XC4zNgWd9PlrYIF/pG0l90j+a8tlCkbhsgW27ACPZJOm9Xvri2aAlnMJzh0JoXz0hDXqX6pcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruno Bafilli\\Desktop\\web\\treinamento1\\CleanArch\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno Bafilli\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Bruno Bafilli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

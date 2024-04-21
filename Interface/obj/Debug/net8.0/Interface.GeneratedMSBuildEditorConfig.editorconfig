@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Interface
-build_property.ProjectDir = C:\Users\Bruno Bafilli\Desktop\web\treinamento1\CleanArch\Interface\
+build_property.ProjectDir = C:\Users\Bruno Bafilli\Documents\GitHub\CleanArchDotNet\Interface\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
