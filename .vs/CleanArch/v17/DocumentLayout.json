@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BBCCD18-5285-4F12-B0B3-C46CD85655EE}|Interface\\Interface.csproj|c:\\users\\bruno bafilli\\documents\\github\\cleanarchdotnet\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BBCCD18-5285-4F12-B0B3-C46CD85655EE}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BBCCD18-5285-4F12-B0B3-C46CD85655EE}|Interface\\Interface.csproj|c:\\users\\bruno bafilli\\documents\\github\\cleanarchdotnet\\interface\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BBCCD18-5285-4F12-B0B3-C46CD85655EE}|Interface\\Interface.csproj|solutionrelative:interface\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8F812FE-E8D4-43E6-91A5-D666E964C8B4}|Infrastructure\\Infrastructure.csproj|c:\\users\\bruno bafilli\\documents\\github\\cleanarchdotnet\\infrastructure\\database\\dbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F812FE-E8D4-43E6-91A5-D666E964C8B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\database\\dbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +15,10 @@
       "RelativeMoniker": "D:0:0:{A8F812FE-E8D4-43E6-91A5-D666E964C8B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\database\\automapperdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0BBCCD18-5285-4F12-B0B3-C46CD85655EE}|Interface\\Interface.csproj|c:\\users\\bruno bafilli\\documents\\github\\cleanarchdotnet\\interface\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBCCD18-5285-4F12-B0B3-C46CD85655EE}|Interface\\Interface.csproj|solutionrelative:interface\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95DA8F22-C077-4C47-BE31-91C39E312201}|Domain\\Domain.csproj|c:\\users\\bruno bafilli\\documents\\github\\cleanarchdotnet\\domain\\repositoryes\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95DA8F22-C077-4C47-BE31-91C39E312201}|Domain\\Domain.csproj|solutionrelative:domain\\repositoryes\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{95DA8F22-C077-4C47-BE31-91C39E312201}|Domain\\Domain.csproj|c:\\users\\bruno bafilli\\documents\\github\\cleanarchdotnet\\domain\\entities\\cliententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95DA8F22-C077-4C47-BE31-91C39E312201}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cliententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBCCD18-5285-4F12-B0B3-C46CD85655EE}|Interface\\Interface.csproj|c:\\users\\bruno bafilli\\documents\\github\\cleanarchdotnet\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBCCD18-5285-4F12-B0B3-C46CD85655EE}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95DA8F22-C077-4C47-BE31-91C39E312201}|Domain\\Domain.csproj|c:\\users\\bruno bafilli\\documents\\github\\cleanarchdotnet\\domain\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -82,8 +82,7 @@
               "RelativeToolTip": "Application\\UseCases\\LendbookManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:41:35.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T00:41:35.694Z"
             },
             {
               "$type": "Document",
@@ -95,25 +94,24 @@
               "RelativeToolTip": "Domain\\Entities\\BookEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:41:25.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T00:41:25.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ClientEntity.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Domain\\Entities\\ClientEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ClientEntity.cs",
               "ToolTip": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Domain\\Entities\\ClientEntity.cs",
               "RelativeToolTip": "Domain\\Entities\\ClientEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T00:41:26.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Domain\\Repositoryes\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Repositoryes\\IBookRepository.cs",
@@ -126,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IClientRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Domain\\Repositoryes\\IClientRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Repositoryes\\IClientRepository.cs",
@@ -139,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AutoMapperDb.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Infrastructure\\Database\\AutoMapperDb.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Database\\AutoMapperDb.cs",
@@ -152,33 +150,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "dbBook.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Infrastructure\\Database\\dbBook.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Database\\dbBook.cs",
               "ToolTip": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Infrastructure\\Database\\dbBook.cs",
               "RelativeToolTip": "Infrastructure\\Database\\dbBook.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDYAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T00:41:06.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbClient.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Infrastructure\\Database\\dbClient.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Database\\dbClient.cs",
-              "ToolTip": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Infrastructure\\Database\\dbClient.cs",
-              "RelativeToolTip": "Infrastructure\\Database\\dbClient.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:41:05.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DependencyInjectionConfig.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Interface\\Configuration\\DependencyInjectionConfig.cs",
               "RelativeDocumentMoniker": "Interface\\Configuration\\DependencyInjectionConfig.cs",
@@ -191,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Interface\\Program.cs",
               "RelativeDocumentMoniker": "Interface\\Program.cs",
@@ -212,8 +197,7 @@
               "RelativeToolTip": "Application\\UseCases\\ClientManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:41:33.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T00:41:33.589Z"
             },
             {
               "$type": "Document",
@@ -225,8 +209,7 @@
               "RelativeToolTip": "Application\\UseCases\\BookManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:41:32.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T00:41:32.994Z"
             },
             {
               "$type": "Document",
@@ -238,8 +221,7 @@
               "RelativeToolTip": "Application\\DTO\\ClienteDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:41:38.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T00:41:38.793Z"
             },
             {
               "$type": "Document",
@@ -251,8 +233,7 @@
               "RelativeToolTip": "Application\\DTO\\AutoMapperProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:41:38.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T00:41:38.153Z"
             },
             {
               "$type": "Document",
@@ -265,6 +246,40 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-16T00:41:34.471Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "bde0a3e2-65fc-47d6-b4d8-7652f524ed38",
+        "Display": 0,
+        "X": 1172,
+        "Y": 61,
+        "Width": 1374,
+        "Height": 1322,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbClient.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Infrastructure\\Database\\dbClient.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Database\\dbClient.cs",
+              "ToolTip": "C:\\Users\\Bruno Bafilli\\Documents\\GitHub\\CleanArchDotNet\\Infrastructure\\Database\\dbClient.cs",
+              "RelativeToolTip": "Infrastructure\\Database\\dbClient.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:41:05.823Z",
+              "EditorCaption": ""
             }
           ]
         }
